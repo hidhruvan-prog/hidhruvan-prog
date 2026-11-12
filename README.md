@@ -1,27 +1,22 @@
 <p align="center">
-  <img src="./terminal.gif" alt="Dhruvan Karthik — BCA AI and ML student at Alliance University. Interested in AI, automation and useful tools. Batman terminal illustration." width="100%" />
+  <img src="./noir.gif" width="100%" alt="Dhruvan Karthik. Monochrome Batman portrait with subtle motion and brief distortion." />
 </p>
 
-### Building, experimenting, learning.
+<br>
 
-Second-year **BCA (AI & ML)** student at **Alliance University, India**. I enjoy turning ideas into working prototypes, exploring machine learning, and using AI to help build useful things.
+BCA · AI & ML · Alliance University
 
-### In my toolkit
+**Selected work**
 
-`Python` · `pandas` · `SQLite` · `n8n` · `REST APIs` · `Claude API` · `Jupyter`
+[Automation demos](https://github.com/hidhruvan-prog/automation-demos) - document extraction, a grounded assistant, and lead routing.  
+[SANKALP](https://github.com/hidhruvan-prog/sankalp-block-planner) - automatic block-planning prototype.  
+[Machine learning](https://github.com/hidhruvan-prog/Machine-Learning-Fundamental) - fundamentals, explored in notebooks.  
+[Data visualisation](https://github.com/hidhruvan-prog/DataVisualisation) - data, made visible.
 
-### A few things I've been working on
+<br>
 
-| Project | What's inside |
-| :--- | :--- |
-| [Automation demos](https://github.com/hidhruvan-prog/automation-demos) | Document-to-CRM extraction, a grounded assistant, and an explainable lead router. |
-| [Machine learning fundamentals](https://github.com/hidhruvan-prog/Machine-Learning-Fundamental) | Projects exploring machine learning fundamentals in notebooks. |
-| [SANKALP](https://github.com/hidhruvan-prog/sankalp-block-planner) | A prototype console for AI-powered automatic block planning. |
-| [Data visualisation](https://github.com/hidhruvan-prog/DataVisualisation) | Data visualisation work in Jupyter notebooks. |
+`Python` &nbsp; `pandas` &nbsp; `SQLite` &nbsp; `n8n` &nbsp; `REST APIs`
 
-### Open to collaboration
+<br>
 
-Available for automation and API integration projects. [Get in touch](mailto:hidhruvan@gmail.com).
-
----
-<p align="center"><sub>Learn something. Build something. Repeat.</sub></p>
+[Contact](mailto:hidhruvan@gmail.com) &nbsp; / &nbsp; [Repositories](https://github.com/hidhruvan-prog?tab=repositories)
