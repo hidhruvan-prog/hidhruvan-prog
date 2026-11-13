@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="./terminal-v4-preview.png">
-    <img src="./terminal-v4.gif" width="100%" alt="Dhruvan Karthik. BCA AI and ML student at Alliance University, India. Python, automation, and machine learning. Animated terminal beside a softly lit Batman cutout.">
+    <source media="(prefers-reduced-motion: reduce)" srcset="./terminal-v5-preview.png">
+    <img src="./terminal-v5.gif" width="100%" alt="Dhruvan Karthik. BCA AI and ML student at Alliance University, India. Python, automation, and machine learning. Animated terminal beside a shadowed Batman illustration with moving cape and brief glitches.">
   </picture>
 </p>
 
@@ -19,3 +19,5 @@
 </p>
 
 <p align="center"><a href="mailto:hidhruvan@gmail.com">contact</a></p>
+
+<!-- Batman illustration source: https://www.pinterest.com/pin/dc-batman-black-minimalist-sticker-in-2025--185773553374370638/ -->
